@@ -28,8 +28,8 @@
        <br>
    </div>
    <div>
-       <small><i>Copyright &copy; 2016 JavaJam Coffee House <br>
-               <a href='mailto:name@email.saintleo.edu'>name@email.saintleo.edu</a>
+       <small><i>Copyright &copy; 2020 JavaJam Coffee House <br>
+              
        </i></small>
       
        <div class="col-md-3">
